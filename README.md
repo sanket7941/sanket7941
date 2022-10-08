@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket7941&label=Profile%20views&color=0e75b6&style=flat" alt="sanket7941" /> </p>
 
-- 🔭 I’m currently working on **Samrt Radio**
+- 🔭 I’m currently working on **Smart Radio**
 
 - ⚡ Fun fact **I do things with electrons⚛️ and copper**
 <img align="right" alt="GIF" src="https://github.com/sanket7941/sanket7941/blob/main/ee%20engg.gif" width="450" height="450"/>
